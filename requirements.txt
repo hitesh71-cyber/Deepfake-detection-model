@@ -9,5 +9,5 @@ mtcnn>=0.1.0
 h5py
 efficientnet
 split_folders
-streamlit
+matplotlib
 pillow
